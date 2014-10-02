@@ -36,7 +36,7 @@ setup(name='simpleauth',
         'Programming Language :: Python :: 2.7',
         'Topic :: Internet :: WWW/HTTP',
         'Topic :: Security',
-        'Topic :: Software Development :: Libraries',    
+        'Topic :: Software Development :: Libraries',
       ],
       packages=['simpleauth'],
       long_description=read('README.md')
